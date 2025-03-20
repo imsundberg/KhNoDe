@@ -35,9 +35,11 @@ This program is supported for Windows machines running Python 3.9 or later - oth
 There are two ways to run KhNoDe, and installation varies between these options:
 
 (A) use a Python IDE, such as PyCharm (recommended)
+
 Download the individual files from the KhNoDe github repository and create a Python project. Verify that the SymPy module is installed (on PyCharm this can be done locally by hovering over the line 'import SymPy' in any of the .py files). Run the main.py file.
 
 (B) use command prompt/terminal
+
 Install SymPy on your machine; instructions can be found at [https://docs.sympy.org/latest/install.html]. Download the khnode.py file and place in a folder. In command prompt/terminal/whatever, move to the folder and run khnode.py
 
 
@@ -186,8 +188,11 @@ Please direct all feedback, bug reports, and questions to my email sundberg@mpim
 ## VI. To do
 
 (1) Include enumerations and orientations into the save/load data
+
 (2) Better support for displaying diagrams with many crossings
+
 (3) Search option for nontrivial classes (with depth control on the chains in the search, based on (a) the number of generators and (b) the size of the coefficients)
+
 (4) Option to toggle on/off the enumerations
 
 
