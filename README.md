@@ -5,20 +5,16 @@
 ## Table of contents
 
 I.   Description
+
 II.  Installation
+
 III. Usage
+
 IV.  Citation
+
 V.   Contact
+
 VI.  To do
-
-
-
-
-
-
-
-
-
 
 ## I. Description
 
